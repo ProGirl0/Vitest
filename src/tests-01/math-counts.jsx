@@ -1,8 +1,3 @@
-import react from 'react';
-import {useState, useEffect} from 'react';
-
-
-
 export const sum =(x, y)=>{
     return x+y;
 }

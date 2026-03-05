@@ -1,4 +1,3 @@
-import react from 'react';
 import {sum, sub, mult, div, even} from './math-counts';
 import {describe, it,  expect} from 'vitest';
 
